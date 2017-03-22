@@ -1,0 +1,5 @@
+key,zh,en
+Blockly.Msg.HELLO_I_AM_MBOT,你好，我是mBot,"Hello, I am mBot"
+Blockly.Msg.WHEN,当,when
+Blockly.Msg.CLICK,被点击,clicked
+Blockly.Msg.WHEN_START,当开始时,when start
